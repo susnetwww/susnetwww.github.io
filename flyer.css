@@ -18,7 +18,7 @@
   gap: 8px;
   border-radius: 0.5em;
 }
-a{text-decoration: none;}
+a {text-decoration: none;}
 .header { grid-area: header; text-align: center }
 .pfp { grid-area: pfp; text-align: center ; }
 .pfp img { width: 75%; border-radius: 1em}
