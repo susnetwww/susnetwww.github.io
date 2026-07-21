@@ -70,7 +70,9 @@ p {
 @media (max-width: 768px) {
     .main {
   width: 90% ; 
-  padding: 5%;}
+  padding: 5%;
+  margin-left: auto;
+  margin-right: auto;}
 .header {grid-area: 1 / span 2;}
 .pfp {grid-area: 2 / span 2;}
 .pfp img { width: 40%; }
