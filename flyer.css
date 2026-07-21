@@ -4,7 +4,6 @@
   padding-left: 3em;
   padding-right: 3em;
   padding-bottom: 5em;
-  justify-self: center;
   display: grid;
   grid:
     "header header" auto
