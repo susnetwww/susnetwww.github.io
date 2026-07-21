@@ -45,7 +45,9 @@ td {padding-bottom: 0.5em;}
 .bginfo table {width: 75%;
 margin-left: auto;
   margin-right: auto;}
-li {line-height: 1.5em; padding-bottom: 0.5em}
+li {line-height: 1.5em; padding-bottom: 1em}
+
+.bonded, .averse, .plays, .remove {line-height: 1.5em, padding-bottom: 1em}
 
 p {
     margin-left: 1.5em;
