@@ -53,7 +53,21 @@ body {font-family: ""; background: }
             </div>
             <div class="identity"><a target="_blank" href=""><img src=""
                         title=""></a></div>
-            <div class="favorites">
+            <div class="likes"><b>Likes</b>
+                <ul>
+                    <li>-</li>
+                    <li>-</li>
+                    <li>-</li>
+                </ul>
+            </div>
+			<div class="dislikes"><b>Dislikes</b>
+                <ul>
+                    <li>-</li>
+                    <li>-</li>
+                    <li>-</li>
+                </ul>
+            </div>
+			<div class="favorites">
                 <table>
                     <tbody>
                         <tr>
